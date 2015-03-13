@@ -1,8 +1,0 @@
-{
-	"~b" = moveWordBackward:;
-	"~f" = moveWordForward:;
-	"~d" = deleteWordForward:;
-	"~l" = (moveWordForwardAndModifySelection:, lowercaseWord:);
-	"~u" = (moveWordForwardAndModifySelection:, uppercaseWord:);
-	"~c" = (moveWordForwardAndModifySelection:, capitalizeWord:);
-}
