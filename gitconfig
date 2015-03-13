@@ -1,7 +1,11 @@
+[sendemail]
+	smtpuser = krzysztof.m.sywula@intel.com
 [user]
-	name = Dave Eddy
-	email = dave@daveeddy.com
-[color]
-	ui = auto
-[push]
-	default = matching
+	email = krzysztof.m.sywula@intel.com
+	name = Krzysztof Sywula
+[core]
+	editor = vim
+#[sendmail]
+#        from = krzysztof.m.sywula@intel.com
+[sendemail]
+        from = "Krzysztof Sywula <krzysztof.m.sywula@intel.com>"
